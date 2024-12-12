@@ -13,8 +13,7 @@ En aquest examen fem un repas a les diferents comandes vistes a clase
   4. Inicia un nou repositori Git al directori de treball on consideris. El nom del directorio ha de ser Cognom1Cognom2Examen2425.
 
   5. Crea un document README.md, afegeix el document i fes un primer commit que amb el missatge
-     ``
-     1 - Git init
+     ``1 - Git init
 ### 2- CREACIÓ DEL PROJECTE WEB
 ### 3- GESTIÓ AMB GIT
 ### 4- CREACIÓ DE BRANQUES I DOCUMENTACIÓ
