@@ -74,6 +74,6 @@ En aquest examen fem un repas a les diferents comandes vistes a clase
   ![Captura del exercici](CapturesExamen/5-2.png)
   
   3. Publica el projecte a Vercel i indica l'enllaç en el document Markdown del examen.
-
+  [Haz clic aquí para visitar mi página](https://sanchez-ropero-examen2425.vercel.app/)
 
 ---
