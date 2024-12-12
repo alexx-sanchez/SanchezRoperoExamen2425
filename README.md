@@ -34,7 +34,20 @@ En aquest examen fem un repas a les diferents comandes vistes a clase
 
 
 ### 3- GESTIÓ AMB GIT
-
+  1. Afegir fitxers:
+    1.Utilitza un patró d'expressió regular per afegir tots els fitxers .html i .css. Fes captura del terminal
+  ![Captura del exercici](CapturesExamen/3-1.png)
+  2. Verifica l'estat del repositori, fes captura del terminal
+  ![Captura del exercici](CapturesExamen/3-2.png)
+  
+  3. Elimina testunitari.html del staging
+  ![Captura del exercici](CapturesExamen/3-3.png)
+  
+  4. Fes un commit que amb el missatge '2- Estructura bàsica'
+  ![Captura del exercici](CapturesExamen/3-4.png)
+  
+  5. Consulta l'historial de commits, fes captura del terminal.
+  ![Captura del exercici](CapturesExamen/3-5.png)
 
 
 ### 4- CREACIÓ DE BRANQUES I DOCUMENTACIÓ
