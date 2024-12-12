@@ -1,8 +1,8 @@
 # Documentació del projecte
 En aquest examen fem un repas a les diferents comandes vistes a clase
-
+---
 ## INSTRUCCIONS
-
+---
 ### 1- CONFIGURACIO INICIAL
   1. Comprova la versió instal·lada de Git, fes captura del terminal.
   ![Captura del exercici](CapturesExamen/0-1.png)
@@ -17,7 +17,7 @@ En aquest examen fem un repas a les diferents comandes vistes a clase
   ![Captura del exercici](CapturesExamen/0-5.png)
 
 
-
+---
 ### 2- CREACIÓ DEL PROJECTE WEB
   1. Crea els fitxers següents al directori del projecte:
   `index.html`
@@ -32,7 +32,7 @@ En aquest examen fem un repas a les diferents comandes vistes a clase
   2. Afegeix contingut bàsic a cada fitxer.
 
 
-
+---
 ### 3- GESTIÓ AMB GIT
   1. Afegir fitxers:
      1. Utilitza un patró d'expressió regular per afegir tots els fitxers .html i .css. Fes captura del terminal
@@ -49,7 +49,7 @@ En aquest examen fem un repas a les diferents comandes vistes a clase
   6. Consulta l'historial de commits, fes captura del terminal.
   ![Captura del exercici](CapturesExamen/3-5.png)
 
-
+---
 ### 4- CREACIÓ DE BRANQUES I DOCUMENTACIÓ
   1. Crea una nova branca per a la documentació
   ![Captura del exercici](CapturesExamen/4-1.png)
@@ -65,7 +65,7 @@ En aquest examen fem un repas a les diferents comandes vistes a clase
   ![Captura del exercici](CapturesExamen/4-4.png)
 
 
-
+---
 ### 5- REMOT I PUBLICACIÓ
   1. Configura un remot per al repositori que has de crear en GitHub, el nom del repositorio de GitHub ha de ser `Cognom1Cognom2Examen2425`. Fes captura al terminal de com has configurat el repositori remot.
   ![Captura del exercici](CapturesExamen/5-1.png)
@@ -74,3 +74,6 @@ En aquest examen fem un repas a les diferents comandes vistes a clase
   ![Captura del exercici](CapturesExamen/5-2.png)
   
   3. Publica el projecte a Vercel i indica l'enllaç en el document Markdown del examen.
+
+
+---
