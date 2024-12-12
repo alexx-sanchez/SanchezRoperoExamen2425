@@ -51,6 +51,19 @@ En aquest examen fem un repas a les diferents comandes vistes a clase
 
 
 ### 4- CREACIÓ DE BRANQUES I DOCUMENTACIÓ
+  1. Crea una nova branca per a la documentació
+  ![Captura del exercici](CapturesExamen/4-1.png)
+
+  2. Crea un fitxer README.md si es necessari:
+  
+    1. Explica dins del fitxer el propòsit del projecte.
+  ![Captura del exercici](CapturesExamen/4-2.png)
+  
+  3. Afegeix i fes commit dels canvis a la branca documentacio. El missatge del commit ha de ser "3 - README.md amb documentació inicial"
+  ![Captura del exercici](CapturesExamen/4-3.png)
+  
+  4. Torna a la branca principal (main) i fes un merge
+  ![Captura del exercici](CapturesExamen/4-4.png)
 
 
 
