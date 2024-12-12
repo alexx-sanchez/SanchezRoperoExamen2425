@@ -15,7 +15,30 @@ En aquest examen fem un repas a les diferents comandes vistes a clase
   5. Crea un document README.md, afegeix el document i fes un primer commit que amb el missatge
      `1 - Git init`
   ![Captura del exercici](CapturesExamen/0-5.png)
+
+
+
 ### 2- CREACIÓ DEL PROJECTE WEB
+  1. Crea els fitxers següents al directori del projecte:
+  `index.html`
+  ![Captura del exercici](CapturesExamen/2-1-1.png)
+  `testunitari.html`
+  ![Captura del exercici](CapturesExamen/2-1-2.png)
+  `style.css`
+  ![Captura del exercici](CapturesExamen/2-1-3.png)
+  `main.js`
+  ![Captura del exercici](CapturesExamen/2-1-4.png)
+
+  2. Afegeix contingut bàsic a cada fitxer.
+
+
+
 ### 3- GESTIÓ AMB GIT
+
+
+
 ### 4- CREACIÓ DE BRANQUES I DOCUMENTACIÓ
+
+
+
 ### 5- REMOT I PUBLICACIÓ
