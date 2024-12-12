@@ -55,8 +55,7 @@ En aquest examen fem un repas a les diferents comandes vistes a clase
   ![Captura del exercici](CapturesExamen/4-1.png)
 
   2. Crea un fitxer README.md si es necessari:
-  
-    1. Explica dins del fitxer el propòsit del projecte.
+     1. Explica dins del fitxer el propòsit del projecte.
   ![Captura del exercici](CapturesExamen/4-2.png)
   
   3. Afegeix i fes commit dels canvis a la branca documentacio. El missatge del commit ha de ser "3 - README.md amb documentació inicial"
