@@ -67,7 +67,7 @@ En aquest examen fem un repas a les diferents comandes vistes a clase
 
 
 ### 5- REMOT I PUBLICACIÓ
-  1. Configura un remot per al repositori que has de crear en GitHub, el nom del repositorio de GitHub ha de ser Cognom1Cognom2Examen2425. Fes captura al terminal de com has configurat el repositori remot.
+  1. Configura un remot per al repositori que has de crear en GitHub, el nom del repositorio de GitHub ha de ser `Cognom1Cognom2Examen2425`. Fes captura al terminal de com has configurat el repositori remot.
   ![Captura del exercici](CapturesExamen/5-1.png)
 
   2. Puja els canvis al remot desde terminal.Fes captura al terminal.
